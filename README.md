@@ -2,4 +2,4 @@
 
 My repository for Data Sciences learning, ideas, resources and discussion
 
-Hello from Zantippi. I am starting a Data Sciences course, and getting myself familiarized with many new apps, concepts and tools!
+Hello from Zantippi. I am starting Data Sciences coursework and as part of this learning, I'm getting myself familiarized with many new apps, concepts and tools!
